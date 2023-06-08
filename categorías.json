@@ -1,26 +1,26 @@
 [
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
+    "category": "Comer",
+    "description": "Preguntas relacionadas con  acciones de comer alimentos."
   },
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
+    "category": "Reir",
+    "description": "Preguntas relacionadas con elegir una forma de hacer reir a otra persona."
   },
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
+    "category": "Beber",
+    "description": "Preguntas relacionadas con acciones de beber."
   },
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
+    "category": "Jugar",
+    "description": "Preguntas relacionadas con la eleccion de un juego."
   },
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
+    "category": "Prenda",
+    "description": "Preguntas relacionadas con que prenda te quitarias."
   },
   {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Adivinanza",
+    "description": "Preguntas relacionadas con adivinanzas faciles."
   }
 ]
