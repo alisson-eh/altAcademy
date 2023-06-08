@@ -1,0 +1,33 @@
+{ 
+"academia":"idiomas" {
+
+"name":"Next Lang",
+"location":" calle principal 123",
+"courses":[
+              {
+              "name":"inglés basico",
+              "level":"principiantes",
+              "duration":"4 semanas",
+              "price_dollars":400 
+              },
+              {
+              "name":"inglés avanzado",
+              "level":"avanzados",
+              "duration":"20 semanas",
+              "price_dollars":400
+              },
+              {
+              "name":"italiano basico",
+              "level":"principiantes",
+              "duration":"5 semanas",
+              "price_dollars":120
+              }
+
+         ],
+"contact phone":[
+                { "phone":156724756 }
+                { "phone":154456234 }
+                 ]
+
+     }
+}
